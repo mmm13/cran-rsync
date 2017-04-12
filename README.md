@@ -1,9 +1,8 @@
-# cran-rsync
-#
-#initally created by jcragun
-#
-scripts used to setup cran mirror 
+#cran-rsync
 
-used the info at http://cran.r-project.org/doc/manuals/R-admin.html/
+scripts initally created by jcragun
 
 
+used to create a local mirror for CRAN 
+
+used info from http://cran.r-project.org/doc/manuals/R-admin.html/
